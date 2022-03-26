@@ -1,0 +1,26 @@
+.rec-img {
+    max-width: 500px;
+}
+
+.recipe {
+    font-size: 1.2em;
+    background-color: rgb(255, 218, 139);
+    color: rgb(9, 0, 63);
+    border: 1px solid rgba(0, 0, 0, 0.411);
+    border-radius: 15px;
+    margin: 1em;
+    padding: 1.5em;
+}
+
+.ingr-head {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    
+}
+
